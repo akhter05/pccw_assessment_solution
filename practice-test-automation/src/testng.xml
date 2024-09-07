@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebAppSuite" verbose="1">
+    <test name="SmokeTests">
+        <classes>
+            <class name="com.optionalassessmentpackage.Login_Success"/>
+        </classes>
+    </test>
+</suite>
