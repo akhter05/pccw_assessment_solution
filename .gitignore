@@ -1,0 +1,25 @@
+/.metadata/
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Build output
+target/
+build/
+
+# IDE-specific files
+*.swp
+*.swo
+
+# Dependency directories
+*.jar
+*.war
+*.ear
+
+# Maven wrapper files
+.mvn/wrapper/
